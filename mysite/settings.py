@@ -25,7 +25,7 @@ SECRET_KEY = 'x4+m+g**eyyu%5q85^x8k+9q_5_k(6l04-s2j8(xlat1$b75h#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', "musictech.pythonanyhwere.org"]
 
 
 # Application definition
